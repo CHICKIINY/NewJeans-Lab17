@@ -67,5 +67,3 @@ void findColSum(const double *a, double *sum2, int N,int M){
 		*(sum2+i) = x;
 	}
 }
-
-
